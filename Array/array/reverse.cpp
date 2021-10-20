@@ -6,6 +6,8 @@ class s
 public:
         char w[10];
 };
+
+// main function with integer return type
 int main() {
 //String st;
 		int i,j=0,l,wcount=1;
